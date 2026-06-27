@@ -7,7 +7,7 @@
     "tags": [
       "合集"
     ],
-    "updatedAt": 1782544469865,
+    "updatedAt": 1782556370347,
     "chapters": [
       {
         "id": "ch-1782544286872",
@@ -32,6 +32,11 @@
           "https://cdn.jsdelivr.net/gh/fweijie505/my-manga-images@main/s-1782544173894/ch-1782544401652/1782544459374_5.jpg",
           "https://cdn.jsdelivr.net/gh/fweijie505/my-manga-images@main/s-1782544173894/ch-1782544401652/1782544465578_6.jpg"
         ]
+      },
+      {
+        "id": "ch-1782556370347",
+        "title": "第三话",
+        "pages": []
       }
     ]
   },
