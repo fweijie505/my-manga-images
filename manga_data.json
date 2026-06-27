@@ -7,7 +7,7 @@
     "tags": [
       "合集"
     ],
-    "updatedAt": 1782544324295,
+    "updatedAt": 1782544401652,
     "chapters": [
       {
         "id": "ch-1782544286872",
@@ -19,6 +19,11 @@
           "https://cdn.jsdelivr.net/gh/fweijie505/my-manga-images@main/s-1782544173894/ch-1782544286872/1782544318840_4.jpg",
           "https://cdn.jsdelivr.net/gh/fweijie505/my-manga-images@main/s-1782544173894/ch-1782544286872/1782544321725_5.jpg"
         ]
+      },
+      {
+        "id": "ch-1782544401652",
+        "title": "第二话 蜗牛",
+        "pages": []
       }
     ]
   },
