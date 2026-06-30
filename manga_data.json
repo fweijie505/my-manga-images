@@ -7,7 +7,7 @@
     "tags": [
       "科普"
     ],
-    "updatedAt": 1782792641420,
+    "updatedAt": 1782792674987,
     "chapters": [
       {
         "id": "ch-1782608174174",
@@ -26,6 +26,11 @@
           "https://cdn.jsdelivr.net/gh/fweijie505/my-manga-images@main/s-1782608080683/ch-1782624556030/1782624583490_2.jpg",
           "https://cdn.jsdelivr.net/gh/fweijie505/my-manga-images@main/s-1782608080683/ch-1782624556030/1782624586024_3.jpg"
         ]
+      },
+      {
+        "id": "ch-1782792674987",
+        "title": "#003  格斗要注意什么",
+        "pages": []
       }
     ]
   },
